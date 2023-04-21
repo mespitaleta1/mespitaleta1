@@ -1,5 +1,13 @@
 ### Hi there 👩🏼‍💻
 
+<div align="center">
+  <a href="https://mespitaleta1.github.io/portfolio/" target="_blank">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.linkedin.com/in/melissa-espitaleta-267b90124/" target="_blank">Linkedin</a>
+  <br />
+  <hr />
+</div>
+
 <!--
 **mespitaleta1/mespitaleta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
