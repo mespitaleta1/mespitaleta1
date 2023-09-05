@@ -1,5 +1,8 @@
-### Hi there 👩🏼‍💻
+<div align="center">
+ <img src="https://i.imgur.com/dayn6re.jpg" height="200"/>
+</div>
 
+### Hi there 👩🏼‍💻
 <div align="center">
   <a href="https://mespitaleta1.github.io/portfolio/" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
