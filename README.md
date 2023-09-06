@@ -1,14 +1,21 @@
-<div align="center">
- <img src="https://i.imgur.com/dayn6re.jpg" height="200"/>
+<div>
+ <img src="https://i.imgur.com/lA6IaDq.jpg" height="200" width="990"/>
 </div>
 
-### Hi there 👩🏼‍💻
 <div align="center">
   <a href="https://mespitaleta1.github.io/portfolio/" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/melissa-espitaleta-267b90124/" target="_blank">Linkedin</a>
   <br />
   <hr />
+</div>
+
+<div>
+<h2> About me </h2>
+<ul>
+    <li> 👩🏼‍🍳🍪 I love bake delicious desserts  </li>
+    <li> 👩🏼‍💻🔥 Passionate to code in JS </li>
+</ul>
 </div>
 
 <!--
