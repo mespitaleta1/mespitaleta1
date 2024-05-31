@@ -13,7 +13,6 @@
 <div>
 <h2> About me </h2>
 <ul>
-    <li> 👩🏼‍🍳🍪 I love bake delicious desserts  </li>
     <li> 👩🏼‍💻🔥 Passionate to code in JS </li>
 </ul>
 </div>
